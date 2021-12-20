@@ -51,7 +51,7 @@
         </el-card>
         <el-card style="margin-top: 20px">
           <template #header>
-            <div>flipped-aurora团队</div>
+            <div>上海砺映智能科技-技术团队</div>
           </template>
           <div>
             <el-row>
