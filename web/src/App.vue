@@ -1,12 +1,17 @@
 <template>
   <div id="app">
     <router-view />
+    <sparrow />
   </div>
 </template>
 
 <script>
+import Sparrow from '@sparrow-vue/develop-ui'
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    Sparrow
+  },  
 }
 </script>
 
